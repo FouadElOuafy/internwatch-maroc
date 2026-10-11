@@ -5,9 +5,7 @@
 **Automated monitoring of internship offers in Morocco: scraping, new-offer detection, AI matching and email alerts.**
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![Scrapy](https://img.shields.io/static/v1?label=Scrapy&message=2.x&color=green)
 ![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask)
-![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=5&color=blueviolet)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Embeddings-multilingual-FF6F00)
 
