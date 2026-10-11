@@ -1,0 +1,5 @@
+Scrapy>=2.11
+Flask>=3.0
+sentence-transformers>=3.0
+APScheduler>=3.10,<4
+numpy>=1.26
